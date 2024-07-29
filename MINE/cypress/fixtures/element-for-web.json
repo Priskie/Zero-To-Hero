@@ -1,0 +1,20 @@
+{
+  "homePageSignupButton": ".Header2_header__nav__btn__wRKfY div:nth-child(2) button",
+  "homePageLoginButton": ".Header2_header__nav__btn__wRKfY div:nth-child(1) button",
+  "fullnameField": "#fullname",
+  "biznameField": "#businessname",
+  "bizemailField": "#businessemail",
+  "bizphoneField": "#businessphonenumber",
+  "bizregNumField": "#businessRegNum",
+  "nextButton": "button[type=\"button\"]",
+  "websiteField": "#website",
+  "instHandleField": "#instagramHandle",
+  "xHandleField": "input#twitterHandle",
+  "howYouHeardDropDown": "div[placeholder]",
+  "passwordField": "#password",
+  "howYouHeardOption": ".MimaDropdown_select__options__xLi7K",
+  "signupButton": "button[type='submit']",
+  "confirmOTP": "h2"
+
+
+}
